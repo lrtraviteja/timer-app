@@ -4,7 +4,7 @@ let timeLeft = 0;
 let mode = 'Pomodoro'; 
 const modes = {
     Pomodoro: 25 * 60,
-    ShortBreak: 5 * 1,
+    ShortBreak: 5 * 60,
     LongBreak: 15 * 60
 };
 
